@@ -1,4 +1,4 @@
-View result https://gagaspanduw.github.io/stats-preview-card-component/
+View my result https://gagaspanduw.github.io/stats-preview-card-component/
 
 # Frontend Mentor - Stats preview card component
 
